@@ -7,6 +7,7 @@ However, accessing most of these informational resources typically involves a re
 
 ## Key Cyber Threat Intelligence Feeds
 Below are links to some prominent CTI feeds and resources:
+
  *1. CIS Real-Time Indicator Feeds:* 
   - [CISecurity](https://www.cisecurity.org/ms-isac/services/real-time-indicator-feeds) - Provides real-time indicators of compromises that can be integrated into security monitoring tools.
 
