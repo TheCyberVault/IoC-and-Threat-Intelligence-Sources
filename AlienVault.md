@@ -1,4 +1,4 @@
-# AlienVault Threat Intelligence Source Feed Overview
+# AlienVault Threat Intelligence Source Feed
 
 The AlienVault Threat Intelligence Source Feed, integral to the Open Threat Exchange (OTX), serves as a pivotal resource for cybersecurity professionals. It offers in-depth cyber threat data, including Indicators of Compromise (IoCs), and harnesses the collective expertise of a worldwide security community to deliver timely threat intelligence, essential for proactive threat detection and mitigation.
 
