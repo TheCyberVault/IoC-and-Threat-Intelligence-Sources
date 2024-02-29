@@ -1,5 +1,4 @@
-
-## Understanding Cyber Threat Intelligence Feeds
+# Understanding Cyber Threat Intelligence Feeds
 
 Numerous sources, including open-source community groups, commercial entities, and government organizations, offer Indicators of Compromise (IoCs) and threat intelligence feeds. These feeds can supply actionable intelligence that helps in defending against upcoming threats or in identifying signs of past intrusions, a process known as threat hunting.
 
