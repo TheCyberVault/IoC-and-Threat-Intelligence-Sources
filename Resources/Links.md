@@ -12,3 +12,6 @@
 
 # Mandiant Link 
 [Mandiant](https://www.mandiant.com/advantage/threat-intelligence)
+
+# Exploit DB Link 
+[Exploit Database](https://www.exploit-db.com/)
